@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #d0bdf6;
+}
+
+header{
+    width: 78%;
+    background-color: #d0bdf6;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.entero{
+    width: 80%;
+    height: 450px;
+    padding: 5px;
+    background-color:#ba9df4;
+    margin: auto;
+}
+
+.entero1{
+    width: 70%;
+    margin: auto;
+    background-color: #d0bdf6;
+    padding: 25px;
+}
+
+.list{
+    width: 70%;
+    margin: auto;
+    background-color: #ba9df4;
+    color:  rgb(0, 0, 0);
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: 19px;
+    color:   rgb(0, 0, 0);
+    height: 30px;
+    background-color: #ba9df4;
+    border: 1px solid #a47cf3;
+    border-radius: 5px;
+}
+
